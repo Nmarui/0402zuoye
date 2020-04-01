@@ -1,0 +1,9 @@
+{
+    "name": "g1",
+    "version": "0.1.0",
+    "author": "@snandy",
+    "homepage": "http://www.g1.com",
+    "devDependencies": {
+        "grunt": "^0.4.5"
+    }
+}
